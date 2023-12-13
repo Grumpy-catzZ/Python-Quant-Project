@@ -12,3 +12,5 @@ submission notebook contains all main code for features and backtesting. Its str
 - Feature 3 ( Bands around VWAP) - design, backtest and evaluate
 - Feature 4 (Harmonic Mean) - design, backtest and evaluate
 - Feature 5 (Bands around exponential moving average) - design, backtest and evaluate
+
+  NOTE - The data file was larger than what github accepts. Kindly download it from here https://drive.google.com/file/d/1ZanTWpVlG7YaOm_wRv_fPvrs46SaWE_I/view?usp=sharing
