@@ -1,9 +1,8 @@
 # Python-Quant-Project
-Submission has 2 notebooks
 
 data_download notebook contains code on downloading data and exploring a bit of it.
 
-submission notebook contains all main code for features and backtesting. Its structured as follows
+research notebook contains all main code for features and backtesting. Its structured as follows
 
 - Feature 1 ( Stochastic Oscillator) - design, backtest and evaluate 
 - Common Backestesting Code for Feature 2, 3, 4 and 5
