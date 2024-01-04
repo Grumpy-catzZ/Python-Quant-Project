@@ -17,6 +17,13 @@ submission notebook contains all main code for features and backtesting. Its str
 
 
 UPDATES: 
+
+* Earlier calculating features took 29.3secs; now it only takes 3.8secs. 8x faster
+* Creating insample/outsample data took 8.9 secs on average; now only1 sec. 9x faster 
+* Quantified results using metrics such as sharpe ratio / cumulative returns/ CAGR and Max Drawdown
+* Created graphs to visualize daily/monthly Returns, Drawdown and Cumulative Returns
+* Revamped code: Reduced variables (eliminating redundancy) and meticulously organized the entire flow for enhanced efficiency.
+
 Change the for loop with vectorized statements to reduce the time significantly: ( where we create our feature variables )
 
 ```
